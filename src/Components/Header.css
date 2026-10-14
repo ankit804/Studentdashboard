@@ -1,0 +1,21 @@
+.header {
+    height: 70px;
+    padding: 0 30px;
+    background-color: white;
+    border-bottom: 1px solid #e2e8f0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.header h2 {
+    color: #2563eb;
+    font-size: 22px;
+}
+
+.header p {
+    color: #64748b;
+    font-size: 14px;
+}
